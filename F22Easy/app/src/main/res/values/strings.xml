@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">F22Easy</string>
+    <string name="title_home">Indian</string>
+    <string name="title_dashboard">Chinese</string>
+    <string name="title_notifications">Italian</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
